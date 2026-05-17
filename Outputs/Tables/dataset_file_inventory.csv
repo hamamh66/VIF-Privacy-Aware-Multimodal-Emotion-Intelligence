@@ -1,0 +1,4 @@
+component,path,files_found
+Emotion annotations,/content/drive/MyDrive/Datasets/IEMOCAP_LIGHT/EmoEvaluation,228
+Transcriptions,/content/drive/MyDrive/Datasets/IEMOCAP_LIGHT/Transcriptions,28
+Sentence WAV files,/content/drive/MyDrive/Datasets/IEMOCAP_LIGHT/Sentences/Wav,1819
