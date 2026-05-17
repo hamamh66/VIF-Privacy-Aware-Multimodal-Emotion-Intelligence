@@ -1,0 +1,11 @@
+{
+  "title": "UVIF_IEMOCAP_Equilibrium_Notebook",
+  "base_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium",
+  "fig_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/Figures",
+  "table_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/Tables",
+  "model_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/Models",
+  "output_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/Outputs",
+  "log_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/logs",
+  "python_dir": "/content/drive/MyDrive/Outputs/UVIF_IEMOCAP_Equilibrium/Notebook",
+  "dataset_root": "/content/drive/MyDrive/Datasets/IEMOCAP_LIGHT"
+}
